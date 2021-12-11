@@ -1,0 +1,22 @@
+.mt {
+  margin-top: 80px;
+}
+.body {
+  width: 400px;
+  background: #d792da;
+  margin-top: 20px;
+  border-radius: 10px;
+  box-shadow: 5px 5px 10px;
+}
+.postid {
+  margin-right: 280px;
+  width: 100px;
+  padding: 5px;
+  border: 1px solid rgb(14, 12, 12);
+  background: rgb(178, 77, 236);
+  border-radius: 4px;
+}
+.ml {
+  margin-right: 380px;
+  margin-top: 10px;
+}
